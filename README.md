@@ -1,34 +1,200 @@
-<h1>👋 Hi, I’m Aayush Kumar</h1>
+<div align="center">
 
+# Hi 👋, I'm Aayush Kumar
 
+### 💻 Java Full Stack Developer | Backend Developer | AI Enthusiast
 
-🔭 I’m currently working on Java projects, AI-powered applications, and web development
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Building+AI-Powered+Applications;Open+to+Software+Engineer+Opportunities" alt="Typing SVG" />
 
-🌱 I’m currently learning Machine Learning, Deep Learning, and Backend Development
-
-👯 I’m looking to collaborate on open-source projects, AI/ML applications, and Java-based tools
-
-🤔 I’m looking for help with landing internships and job opportunities in software development / AI
-
-💬 Ask me about Java, Python, Machine Learning, Web Development, and Problem-Solving
-
-📫 How to reach me: LinkedIn
- | Email
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I love exploring new technologies, building projects from scratch, and finding creative solutions through code.
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHeGSvWYDSd6b6CXAAMLNQg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushkumar2hzb@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aayush7097&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aayush7097&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7097&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aayush7097&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 Computer Science Engineering Student (Graduating 2026)
+
+💻 Passionate about building scalable backend systems using **Java, Spring Boot, and REST APIs**
+
+🌐 Experienced in developing **Full Stack MERN Applications**
+
+🤖 Exploring **Artificial Intelligence**, **Machine Learning**, and **Computer Vision** through real-world projects
+
+📚 Actively solving **Data Structures & Algorithms** using Java
+
+🎯 Seeking **Software Engineer**, **Java Full Stack**, and **Backend Developer** opportunities
+
+📍 Bengaluru, India
+
+---
+
+# 🔥 Currently Working On
+
+- 🚀 TalentForge AI – AI-Powered Recruitment Platform
+- 💰 Finance Management REST API (Spring Boot)
+- 🌐 MERN Expense Tracker
+- 📚 Daily DSA Practice in Java
+- 🤖 AI-Driven People Search Engine
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb"/>
+
+</p>
+
+**Also Experienced With**
+
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JDBC
+- REST APIs
+- JWT Authentication
+- Maven
+
+---
+
+## AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,flask"/>
+
+</p>
+
+- OpenCV
+- NumPy
+- Machine Learning
+- Computer Vision
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 💰 Finance Management REST API
+
+Secure backend application developed using **Spring Boot**, **Spring Security**, **JWT Authentication**, **Hibernate**, and **MySQL** featuring role-based authorization, transaction management, and Swagger documentation.
+
+---
+
+## 🌐 MERN Expense Tracker
+
+Full Stack Expense Management application developed using **MongoDB**, **Express.js**, **React.js**, and **Node.js** with secure authentication and financial analytics dashboard.
+
+---
+
+## 🤖 AI-Driven People Search Engine
+
+AI-powered profile retrieval system utilizing **Flask**, **OpenCV**, **NumPy**, and **SQLite** for intelligent image-based search and facial recognition.
+
+---
+
+## 🌱 Smart Plant Monitoring System
+
+IoT-based greenhouse automation system using **ESP8266**, **Blynk IoT**, **DHT11**, and Soil Moisture Sensors for real-time environmental monitoring.
+
+---
+
+## 🚀 TalentForge AI *(Currently Building)*
+
+Next-generation AI-powered recruitment platform using **Spring Boot**, **React**, and **Machine Learning** for intelligent resume analysis and candidate-job matching.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Aayush7097&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aayush7097&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7097&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Aayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aayush7097&theme=tokyo-night)](https://github.com/Aayush7097)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=Aayush7097&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
+
+# 📚 Current Learning Goals
+
+✔ Spring Boot Advanced Concepts
+
+✔ Microservices
+
+✔ Docker
+
+✔ System Design Fundamentals
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Cloud Deployment
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aayushkumar2hzb@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aayush7097">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=Aayush7097&icon=5&color=6)
+
+### ⭐ "Building scalable software, solving real-world problems, and continuously learning."
+
+</div>

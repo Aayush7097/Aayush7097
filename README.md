@@ -195,6 +195,6 @@ Next-generation AI-powered recruitment platform using **Spring Boot**, **React**
 
 ![](https://visitcount.itsvg.in/api?id=Aayush7097&icon=5&color=6)
 
-### ⭐ "Building scalable software, solving real-world problems, and continuously learning."
+### ⭐ "Building scalable software, solving real-world problems, and continuously learning"
 
 </div>

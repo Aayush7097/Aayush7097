@@ -18,7 +18,7 @@
 
 🌐 Experienced in developing **Full Stack MERN Applications**
 
-🤖 Exploring **Artificial Intelligence**, **Machine Learning**, and **Computer Vision** through real-world projects
+🤖 Exploring **Artificial Intelligence**, **Machine Learning**, through real-world projects
 
 📚 Actively solving **Data Structures & Algorithms** using Java
 
